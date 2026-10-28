@@ -21,10 +21,10 @@ The plugin talks to cliamp only through MPRIS over D-Bus. It runs no commands, m
 omarchy plugin add https://github.com/mattwolfgang/simple-cliamp-bar-controls --enable
 ```
 
-The widget is placed in the `centerBegin` section, just left of the clock. To move it:
+The widget is added to the right section of the bar. To put it just left of the clock instead:
 
 ```bash
-omarchy bar move io.github.mattwolfgang.simple-cliamp-bar-controls --section right
+omarchy bar move io.github.mattwolfgang.simple-cliamp-bar-controls --section centerBegin
 ```
 
 ### From a local checkout

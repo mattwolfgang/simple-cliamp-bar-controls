@@ -17,6 +17,6 @@
     "description": "Previous, play/pause, and next for cliamp; hover for now playing",
     "category": "Media",
     "allowMultiple": false,
-    "defaultSection": "centerBegin"
+    "defaultSection": "right"
   }
 }
