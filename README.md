@@ -2,6 +2,8 @@
 
 An [Omarchy](https://omarchy.org/) bar widget for the [cliamp](https://github.com/bjarneo/cliamp) terminal music player.
 
+![Hover card showing the current track below the bar controls](preview.png)
+
 - **Bar:** previous, play/pause, and next buttons.
 - **Hover:** a card pops out with the current track: cover art, title, artist, album, play state, and a progress bar for tracks with a known length. Internet radio streams show as a live stream.
 - The widget hides itself when cliamp isn't running and comes back when it starts.
