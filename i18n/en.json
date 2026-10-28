@@ -1,0 +1,7 @@
+{
+  "status.playing": "Playing",
+  "status.paused": "Paused",
+  "status.stopped": "Stopped",
+  "track.unknown": "Unknown title",
+  "track.live": "Live stream"
+}
